@@ -1,2 +1,2 @@
 # HerancaAula1
-Primeira aula de herança na disciplina de orientação ao objeto. 
+Aula de herança da disciplina de orientação a objeto.  
